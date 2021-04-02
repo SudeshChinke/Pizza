@@ -1,10 +1,10 @@
-# PizzaProject26
+# Pizza
 
 **Ingredients**
 
 *Pizza Dough*: Makes enough dough for two 10-12 inch pizzas
 
-1. 1,1/2 cups (355 ml) warm water (105°F-115°F)
+1. 1,1/2 cups (355 ml) warm water (105Â°F-115Â°F)
 2. 1 package (2 1/4 teaspoons) of active dry yeast
 3. 3 3/4 cups (490 g) bread flour
 4. 2 tablespoons extra virgin olive oil (omit if cooking pizza in a wood-fired pizza oven)
@@ -13,13 +13,13 @@
  *Pizza Ingredients*
 1. Extra virgin olive oil
 2. Cornmeal (to help slide the pizza onto the pizza stone)
-3. Tomato sauce (smooth, or puréed)
+3. Tomato sauce (smooth, or purÃ©ed)
 4. Firm mozzarella cheese, grated
 5. Fresh soft mozzarella cheese, separated into small clumps
 6. Fontina cheese, grated
 7. Parmesan cheese, grated
 8. Feta cheese, crumbled
-9. Mushrooms, very thinly sliced if raw, otherwise first sautéed
+9. Mushrooms, very thinly sliced if raw, otherwise first sautÃ©ed
 10. Bell peppers, stems and seeds removed, very thinly sliced
 11. Italian pepperoncini, thinly sliced
 12. Italian sausage, cooked ahead and crumbled
@@ -59,7 +59,7 @@ At this point you can choose how long you want the dough to ferment and rise. A 
 
 Cover the dough with plastic wrap.
 
-For a quick rise, place the dough in a warm place (75°F to 85°F) for 1 1/2 hours.
+For a quick rise, place the dough in a warm place (75Â°F to 85Â°F) for 1 1/2 hours.
 
 For a medium rise, place the dough in a regular room temperature place (your kitchen counter will do fine) for 8 hours. For a longer rise, chill the dough in the refrigerator for 24 hours (no more than 48 hours).
 
@@ -73,7 +73,7 @@ Thaw the pizza dough in the refrigerator overnight or for 5 to 6 hours. Then let
 
 **Step:-5**
 
-Place a pizza stone on a rack in the lower third of your oven. Preheat the oven to 475°F (245°C) for at least 30 minutes, preferably an hour. If you don't have a pizza stone, you can use a pizza pan or a thick baking sheet; you need something that will not warp at high temperatures.
+Place a pizza stone on a rack in the lower third of your oven. Preheat the oven to 475Â°F (245Â°C) for at least 30 minutes, preferably an hour. If you don't have a pizza stone, you can use a pizza pan or a thick baking sheet; you need something that will not warp at high temperatures.
 
 **Step:-6**
 
@@ -131,7 +131,7 @@ Slide the pizza off of the peel and onto the baking stone in the oven.
 
 **Step:-13**
 
-Bake pizza in the 475°F (245°C) oven, one at a time, until the crust is browned and the cheese is golden, about 10-15 minutes. If you want, toward the end of the cooking time you can sprinkle on a little more cheese.
+Bake pizza in the 475Â°F (245Â°C) oven, one at a time, until the crust is browned and the cheese is golden, about 10-15 minutes. If you want, toward the end of the cooking time you can sprinkle on a little more cheese.
 
 And ur done 
 
